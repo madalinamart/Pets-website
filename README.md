@@ -1,3 +1,7 @@
+Created the project by following the Linkedin Learning tutorial.
+Using create-react-app, tailwindcss
+Project consists of displaying list of veterinary appointments for pets. Implemented search, sorting and ordering + displaying from json file, deleting and appointment  and adding new appointments
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
